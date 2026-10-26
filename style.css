@@ -55,7 +55,6 @@ button {
 }
 
 /*-----------------SIDE BAR-----------------*/
-
 .right {
     font-size: 20px;
 
@@ -108,8 +107,6 @@ button {
 
 .span_head_2nd {
     color: #c17e52;
-
-
 
 }
 
@@ -303,7 +300,11 @@ b {
     padding: 6px;
     font-size: 16px;
     box-sizing: border-box;
+
+
+    
 }
+
 
 .icon_service_2 {
     color: black;
@@ -316,7 +317,8 @@ b {
     padding-top: 9px;
     padding-bottom: 9px;
     font-size: 16px;
-    margin-top: 100p;
+    margin-top: 100px;
+        box-sizing: border-box;
 }
 
 .icon_service_3 {
@@ -338,8 +340,8 @@ b {
     color: black;
     border: 1px solid #d6d3d3;
     border-radius: 50%;
-    height: 40px;
-    width: 40px;
+    height: 60px;
+    width: 60px;
     align-items: center;
     padding: 7px;
     font-size: 16px;
