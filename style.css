@@ -195,10 +195,12 @@ button {
     color: #858282;
     margin-left: 60px;
 }
+
 b {
     font-size: 25px;
 
 }
+
 .about_list {
     font-size: 20px;
 }
@@ -291,7 +293,7 @@ b {
 }
 
 .icon_service_1 {
-   color: black;
+    color: black;
     border: 1px solid rgb(205, 192, 192);
     border-radius: 50%;
     height: 40px;
@@ -301,8 +303,6 @@ b {
     font-size: 16px;
     box-sizing: border-box;
 
-
-    
 }
 
 
@@ -318,7 +318,7 @@ b {
     padding-bottom: 9px;
     font-size: 16px;
     margin-top: 100px;
-        box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .icon_service_3 {
@@ -367,7 +367,7 @@ b {
     font-weight: 500;
 }
 
-.arrow_ohh{
+.arrow_ohh {
     text-align: right;
     margin-right: 20px;
 }
@@ -430,7 +430,6 @@ b {
     font-size: 50px;
     font-weight: 600;
     text-align: center;
-
 }
 
 .reviews_para {
@@ -438,6 +437,7 @@ b {
     color: #858282;
     text-align: center;
 }
+
 .row_data_rev {
     border: 1px solid #c0baba;
     height: 200px;
@@ -460,10 +460,6 @@ b {
     font-size: 18px;
     font-weight: 600;
 }
-
-
-
-
 .designation_review {
     color: #7e7a7a;
     font-size: 16px;
@@ -477,7 +473,6 @@ footer {
     width: 98vw;
     height: 680px;
 }
-
 
 .footer_div {
     background-color: transparent;
@@ -495,7 +490,6 @@ footer {
     font-size: 69px;
     font-weight: 500;
     margin-top: 10px;
-
 }
 
 .foo_para_2 {
@@ -516,8 +510,6 @@ footer {
     border: none;
     margin-left: 8px;
     margin-right: 5px;
-
-
 }
 
 .foo_btn_2 {
@@ -536,7 +528,6 @@ footer {
 
 .foo_btn_1:active {
     background-color: #deb79c;
-
 }
 
 .foo_btn_2:active {
@@ -570,7 +561,6 @@ footer {
     margin-left: 40px;
 }
 
-
 .footer_2nd_last hr {
     width: 98%;
     margin-top: 35px;
@@ -591,7 +581,6 @@ footer {
     margin-left: 380px;
 }
 
-
 .phone_btn {
 
     width: 45px;
@@ -608,7 +597,6 @@ footer {
 .icons {
     text-align: right;
 }
-
 .icons a {
     vertical-align: middle;
 }
